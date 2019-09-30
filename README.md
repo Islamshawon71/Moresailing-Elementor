@@ -9,8 +9,13 @@ assets/
       /css  Holds plugin CSS Files
       
 widgets/
-      /hello-world.php
-      /inline-editing.php
+      /bookingForm.php
+      /bookingTable.php
+      /facebookSlider.php
+      /moresailing_newsletter.php
+      /moresailing_tab.php
+      /testimonialSlider.php
+            
       
 index.php
 elementor-moresailing.php
